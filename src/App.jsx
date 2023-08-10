@@ -15,7 +15,7 @@ const App = () => {
 
 	return (
 	  <h1>
-	 		Lista de criptomonedas
+	 		LISTA DE CRIPTOMONEDAS
 	  </h1>
 	)
 }
